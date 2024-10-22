@@ -1,3 +1,5 @@
+<!-- docs/_sidebar.md -->
+
 * [Обзор](/)
 
 * CLIKC для SmartTV  
@@ -6,12 +8,12 @@
   * [Ограничения](limitations_tv.md)
   * [Поддержка](support.md)
 
-* CLIKC для Android
+* CLIKC для Andoid
   * [Обзор функций](overview_android.md)
   * [Установка и настройка](install_android.md)
   * [Поддержка](support.md)
 
-* [Станьте частью команды CLIKC](join.md)
+* [Станьте частью команды CLICK](join.md)
 
 * Инструкции
   * [Руководство по настройке на Smart TV](install_tv.md)
