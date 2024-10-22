@@ -2,7 +2,7 @@
 
 Продлить подписку можно через личный кабинет tvclick.app, `Настройки → Управление подпиской → Внести код активации → Активировать`.
 
-<p align="center"><img src="image-6.png" width="300"></p> 
+<p align="center"><img src="image-6.png" width="400"></p> 
 
 
 ```
