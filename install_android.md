@@ -1,8 +1,9 @@
 # Установка CLICK на Android
 
-Скачайте и установите приложение через ***APK-файл** на смартфон или планшет.
+Скачайте и установите приложение через **APK-файл** на смартфон или планшет.
 
-В Google Play приложение найти нельзя. Почему это так, можно узнать [здесь](https://www.androidpolice.com/2016/03/01/google-explicitly-bans-ad-blockers-from-the-play-store-except-all-those-ad-blocking-web-browsers-apparently/). 
+> В Google Play приложение найти нельзя. Почему это так, можно узнать [здесь](https://www.androidpolice.com/2016/03/01/google-explicitly-bans-ad-blockers-from-the-play-store-except-all-those-ad-blocking-web-browsers-apparently/).
+>
 
 Если у вас Google Play, вот инструкция, как установить CLICK для Android вручную.
 
