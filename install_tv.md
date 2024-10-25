@@ -4,8 +4,7 @@
 
 Ввести Вашу почту. Почта не обязательна должна совпадать с вашим Google аккаунтом.
 
-<p align="center"><img src="image-13.png" width="300"></p> 
-![alt text](image-13.png)
+<p align="center"><img src="image-13.png" width="400"></p> 
 
 Ввести Ваш код активации и нажмите активировать.
 
