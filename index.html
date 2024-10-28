@@ -4,22 +4,33 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CLICK Documentation</title>
-  <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-
+  
+  <!-- Добавляем иконку -->
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <style>
+    /* Стили для логотипа над заголовком */
+    .custom-logo {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    .docsify-logo {
+      text-align: center;
+      font-size: 2em;
+      font-weight: bold;
+    }
+  </style>
 </head>
 <body>
 
-  <div id="app">
-    <!-- Логотип над заголовком -->
-    <div style="text-align: center; margin-top: 20px;">
-      <img src="/logo.png" alt="CLICK" style="max-width: 150px;">
-    </div>
-  </div>
+  
+  <!-- Основной контейнер для документации Docsify -->
+  <div id="app"></div>
 
   <script>
     window.$docsify = {
-      name: 'CLICK Documentation',
+      name: '<img src="/logo.png" alt="CLICK Logo" style="vertical-align: middle; margin-right: 10px; max-height: 40px;"> CLICK Documentation',
       repo: '',
       loadSidebar: true,
       basePath: '/',  // Задаем корневой путь
