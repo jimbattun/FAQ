@@ -2,16 +2,7 @@
 
 > В этой статье рассказывается о CLICK для iOS — многофункциональном расширении для Safari, которое позволяет смотреть ваши любимые ролики без рекaламы и рекламных интеграций на iPhone и iPad. Чтобы увидеть, как он работает, скачайте приложение [CLICK: Watch Video](https://apps.apple.com/us/app/click-watch-video/id6740205263).
 
-<div style="text-align: center;">
-  <img src="image-17.png" width="300">
-</div>
-<div style="text-align: center;">
-  <img src="img2.png" width="300">
-</div>
-<div style="text-align: center;">
-  <img src="img3.png" width="300">
-</div>
-
+<p align="center"><img src="image-17.png" width="300"></p> 
 
 - [Инструкция по настройке](/install_ios.md)
 

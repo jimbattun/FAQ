@@ -1,39 +1,47 @@
 # Установка CLICK на iOS
 
-Скачайте и установите приложение через **APK-файл** на смартфон или планшет.
+Скачайте и установите приложение через AppStore на смартфон или планшет.
 
-> В Google Play приложение найти нельзя. Почему это так, можно узнать [здесь](https://www.androidpolice.com/2016/03/01/google-explicitly-bans-ad-blockers-from-the-play-store-except-all-those-ad-blocking-web-browsers-apparently/).
+> Расширение для Safari iOS находится в режиме тестирования.
 >
 
 #
-Если у вас Google Play, вот инструкция, как установить CLICK для Android вручную.
-
-Актуальная версия приложения доступна на [сайте](https://myclick.app/app).
-
+Актуальная версия приложения доступна в [AppStore](https://apps.apple.com/us/app/click-watch-video/id6740205263).
 #
 
-В Android версии 8 и новее: нажмите на загруженный APK-файл CLICK, затем нажмите Установить. Если установка из браузера не разрешена, вы получите уведомление. В нём нажмите на `Настройки → Разрешить установку из этого источника → ОК` и откройте установочный файл.
+Перейдите в AppStore и нажмите **Установить**. 
 
-Теперь можно приступить к установке программы. На экране отобразится предложение сохранить загружаемый файл. 
- Нажмите кнопку **ОК**.
+<p align="center"><img src="IMG_82C64D0B7C97-1.jpeg" width="300"></p> 
 
-После завершения загрузки нажмите **Установить** в диалоговом окне установки. 
- Дождитесь завершения установки и нажмите **Готово**.
+CLIKC **установлен**. Чтобы настроить приложение, нажмите на его значок в списке установленных приложений и следуйте инструкциям.
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985384-y.jpg" width="300"></p> 
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628112-y.jpg" width="300"></p> 
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628111-y.jpg" width="300"></p> 
 
-CLIKC **установлен**. Чтобы запустить приложение, нажмите на его значок в списке установленных приложений.
+Дайте полноценой работы расширения нужно включить и дать необходимые разрешения `Настройки - Safari - Расширения`.
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985380-y.jpg" width="300"></p> 
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628110-y.jpg" width="300"></p> 
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628109-y.jpg" width="300"></p> 
 
-Дайте разрешение **на уведомления** `позволит получать уведомление о обновлениях`.
+После успешной настройки вам нужно перейти в **Safari** по ссылке youtube.com
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985378-y.jpg" width="300"></p> 
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628136-y.jpg" width="300"></p> 
 
-Создайте аккаунт `или используйте данные которые Вы использовали при активации CLICK для телевизоров`.
+После успешной настройки вам нужно перейти в **Safari** по ссылке youtube.com
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985379-y.jpg" width="300"></p> 
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628108-y.jpg" width="300"></p> 
+
+После успешной настройки вам нужно перейти в **Safari** по ссылке youtube.com
+
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628107-y.jpg" width="300"></p> 
+
+После успешной настройки вам нужно перейти в **Safari** по ссылке youtube.com
+
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628105-y.jpg" width="300"></p> 
+
+После успешной настройки вам нужно перейти в **Safari** по ссылке youtube.com
+
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628104-y.jpg" width="300"></p> 
 
 Зайдите в свой Google аккаунт `получите доступ к своим рекомендациям и подборкам, смотрите любимые видео из подписок`.
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985377-y.jpg" width="300"></p> 
