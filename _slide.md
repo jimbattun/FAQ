@@ -13,6 +13,11 @@
   * [Установка и настройка](install_android.md)
   * [Поддержка](support.md)
 
+  * CLIKC для iOS
+  * [Обзор функций](overview_ios.md)
+  * [Установка и настройка](install_ios.md)
+  * [Поддержка](support.md)
+
 * [Станьте частью команды CLICK](join.md)
 
 * Инструкции
@@ -20,4 +25,4 @@
   * [Руководство по установке на Android](install_android.md)
   * [Продление подписки](renewal.md)
   * [Обновление приложения](update.md)
-  * [Приложение iOS](limitations_ios.md)
+  * [Приложение iOS](overview_ios.md)
