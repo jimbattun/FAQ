@@ -13,7 +13,7 @@
   * [Установка и настройка](install_android.md)
   * [Поддержка](support.md)
 
-  * CLIKC для iOS
+* CLIKC для iOS
   * [Обзор функций](overview_ios.md)
   * [Установка и настройка](install_ios.md)
   * [Поддержка](support.md)
@@ -23,6 +23,6 @@
 * Инструкции
   * [Руководство по настройке на Smart TV](install_tv.md)
   * [Руководство по установке на Android](install_android.md)
+  * [Руководство по установке на Android](install_ios.md)
   * [Продление подписки](renewal.md)
   * [Обновление приложения](update.md)
-  * [Приложение iOS](overview_ios.md)
