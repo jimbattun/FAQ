@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Обзор](/)
+* [Главная](README.md)
 
 * CLIKC для SmartTV  
   * [Обзор функций](overview_tv.md)
@@ -18,7 +18,7 @@
   * [Установка и настройка](install_ios.md)
   * [Поддержка](support.md)
 
-* [Станьте частью команды CLICK](join.md)
+* [Команда CLICK](join.md)
 
 * Инструкции
   * [Руководство по настройке на Smart TV](install_tv.md)

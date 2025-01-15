@@ -23,6 +23,6 @@
 * Инструкции
   * [Руководство по настройке на Smart TV](install_tv.md)
   * [Руководство по установке на Android](install_android.md)
-  * [Руководство по установке на Android](install_ios.md)
+  * [Руководство по установке на iOS](install_ios.md)
   * [Продление подписки](renewal.md)
   * [Обновление приложения](update.md)

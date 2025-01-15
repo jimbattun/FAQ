@@ -5,12 +5,10 @@
 > В Google Play приложение найти нельзя. Почему это так, можно узнать [здесь](https://www.androidpolice.com/2016/03/01/google-explicitly-bans-ad-blockers-from-the-play-store-except-all-those-ad-blocking-web-browsers-apparently/).
 >
 
-#
 Если у вас Google Play, вот инструкция, как установить CLICK для Android вручную.
 
 Актуальная версия приложения доступна на [сайте](https://myclick.app/app).
 
-#
 
 В Android версии 8 и новее: нажмите на загруженный APK-файл CLICK, затем нажмите Установить. Если установка из браузера не разрешена, вы получите уведомление. В нём нажмите на `Настройки → Разрешить установку из этого источника → ОК` и откройте установочный файл.
 
