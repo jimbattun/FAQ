@@ -21,22 +21,20 @@
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628109-y.jpg" width="300"></p> 
 
 После настройки откройте **Safari*** и перейдите на сайт youtube.com.
-
-<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628136-y.jpg" width="300"></p> 
-
 Как только страница загрузится, откройте меню настроек страницы (значок в виде пазла в нижнем левом углу).
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628105-y-1.jpg" width="300"></p> 
 
 Перейдите в CLICK.
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628107-y.jpg" width="300"></p> 
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628108-y.jpg" width="300"></p> 
 
 Введите ваш логин и пароль в поле авторизации.
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628105-y.jpg" width="300"></p> 
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628107-y.jpg" width="300"></p> 
 
 После успешной авторизации вы сможете использовать все функции приложения CLICK.
 
+<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628105-y.jpg" width="300"></p> 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628104-y.jpg" width="300"></p> 
 
