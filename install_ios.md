@@ -2,7 +2,7 @@
 
 Скачайте и установите приложение через App Store на ваш смартфон или планшет.
 
-> Расширение для Safari iOS находится в режиме тестирования только для iOS.
+> Расширение для Safari iOS находится в режиме тестирования только для iPhone.
 
 Актуальная версия приложения доступна в [AppStore](https://apps.apple.com/us/app/click-watch-video/id6740205263).
 
@@ -15,15 +15,15 @@
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628112-y.jpg" width="300"></p> 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628111-y.jpg" width="300"></p> 
 
-Для полноценной работы расширения нужно включить его в настройках Safari. Перейдите в `Настройки - Safari - Расширения`, и разрешите необходимые параметры.
+Для полноценной работы расширения нужно включить его в настройках Safari. Перейдите в `Настройки - Safari - Расширения - CLICK`, и разрешите необходимые параметры.
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628110-y.jpg" width="300"></p> 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628109-y.jpg" width="300"></p> 
 
-После настройки откройте **Safari*** и перейдите на сайт youtube.com.
+После настройки откройте Safari и перейдите на сайт youtube.com.
 Как только страница загрузится, откройте меню настроек страницы (значок в виде пазла в нижнем левом углу).
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628105-y-1.jpg" width="300"></p> 
+<p align="center"><img src="2025-01-15 16.14.01.jpg" width="300"></p> 
 
 Перейдите в CLICK.
 
