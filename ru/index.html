@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,8 +31,8 @@
   <!-- Выпадающий список для смены языка -->
   <div class="lang-selector">
     <select id="lang-switcher">
-      <option value="/">🇷🇺 Русский</option>
       <option value="/en/">🇬🇧 English</option>
+      <option value="/ru/">🇷🇺 Русский</option>
       <option value="/pl/">🇵🇱 Polski</option>
     </select>
   </div>
@@ -43,18 +43,31 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const langSwitcher = document.getElementById("lang-switcher");
-
-      // Определяем текущий язык по URL
       const currentPath = window.location.pathname;
-      if (currentPath.startsWith("/en/")) {
-        langSwitcher.value = "/en/";
+
+      // Определяем язык браузера пользователя
+      const userLang = navigator.language || navigator.userLanguage;
+      let defaultLang = "/en/"; // Теперь английский по умолчанию
+
+      if (currentPath === "/") { // Только если пользователь впервые на сайте
+        if (userLang.startsWith("ru")) {
+          defaultLang = "/ru/";
+        } else if (userLang.startsWith("pl")) {
+          defaultLang = "/pl/";
+        }
+        window.location.replace(defaultLang);
+      }
+
+      // Устанавливаем значение в селекторе
+      if (currentPath.startsWith("/ru/")) {
+        langSwitcher.value = "/ru/";
       } else if (currentPath.startsWith("/pl/")) {
         langSwitcher.value = "/pl/";
       } else {
-        langSwitcher.value = "/";
+        langSwitcher.value = "/en/";
       }
 
-      // Обработчик смены языка
+      // Обработчик смены языка вручную
       langSwitcher.addEventListener("change", function () {
         window.location.href = this.value;
       });
@@ -65,8 +78,8 @@
       repo: '',
       loadSidebar: true,
       alias: {
-        '/': '/ru/',
-        '/en/': '/en/',
+        '/': '/en/', // Английский теперь основная локаль
+        '/ru/': '/ru/',
         '/pl/': '/pl/'
       }
     };
