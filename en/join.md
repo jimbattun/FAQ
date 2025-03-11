@@ -1,7 +1,10 @@
-# Бета-тестирование CLICK
-Версии CLICK для всех платформ регулярно обновляются. Это невозможно без тщательного тестирования и, самое главное, без участия наших тестеров.
+# CLICK Beta Testing
 
-Если вы хотите стать частью команды, которая помогает улучшать сервис, свяжитесь с нами по адресу: support@myclick.app.
+CLICK versions for all platforms are regularly updated. This would not be possible without thorough testing and, most importantly, without the participation of our testers.
 
-# Обновление Базы знаний
-Цель базы знаний — предоставить пользователям актуальную и полную информацию обо всех аспектах работы сервиса CLICK. Поскольку продукты постоянно развиваются, статьи базы знаний регулярно обновляются, чтобы оставаться полезными и актуальными.
+If you want to be part of the team that helps improve the service, contact us at: support@myclick.app.
+
+# Knowledge Base Updates
+
+The goal of the Knowledge Base is to provide users with up-to-date and comprehensive information about all aspects of the CLICK service.  
+Since the products are constantly evolving, Knowledge Base articles are regularly updated to remain useful and relevant.

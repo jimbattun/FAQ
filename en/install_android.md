@@ -1,37 +1,44 @@
-# Установка CLICK на Android
+# Installing CLICK on Android
 
-Скачайте и установите приложение через **APK-файл** на смартфон или планшет.
+Download and install the app via **APK file** on your smartphone or tablet.
 
-> В Google Play приложение найти нельзя. Почему это так, можно узнать [здесь](https://www.androidpolice.com/2016/03/01/google-explicitly-bans-ad-blockers-from-the-play-store-except-all-those-ad-blocking-web-browsers-apparently/).
+> The app is not available on Google Play. To learn why, read [this article](https://www.androidpolice.com/2016/03/01/google-explicitly-bans-ad-blockers-from-the-play-store-except-all-those-ad-blocking-web-browsers-apparently/).
 >
 
-Если у вас Google Play, вот инструкция, как установить CLICK для Android вручную.
+If you have Google Play, here’s how to manually install CLICK for Android.
 
-Актуальная версия приложения доступна на [сайте](https://myclick.app/app).
+The latest version of the app is available on the [official website](https://myclick.app/app).
 
+## Installation Steps
 
-В Android версии 8 и новее: нажмите на загруженный APK-файл CLICK, затем нажмите Установить. Если установка из браузера не разрешена, вы получите уведомление. В нём нажмите на `Настройки → Разрешить установку из этого источника → ОК` и откройте установочный файл.
+### For Android 8 and newer:
 
-Теперь можно приступить к установке программы. На экране отобразится предложение сохранить загружаемый файл. 
- Нажмите кнопку **ОК**.
+1. Tap on the downloaded CLICK APK file, then tap **Install**.  
+2. If installation from the browser is not allowed, you will see a notification.  
+   - In the notification, tap `Settings → Allow installation from this source → OK`, then reopen the installation file.  
 
-После завершения загрузки нажмите **Установить** в диалоговом окне установки. 
- Дождитесь завершения установки и нажмите **Готово**.
+Now, you can proceed with the installation. A prompt will appear asking to save the downloaded file.  
+- Tap **OK**.
+
+3. Once the download is complete, tap **Install** in the installation dialog box.  
+4. Wait for the installation to finish and tap **Done**.
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985384-y.jpg" width="300"></p> 
 
-CLIKC **установлен**. Чтобы запустить приложение, нажмите на его значок в списке установленных приложений.
+CLICK is now **installed**. To launch the app, tap its icon in the list of installed applications.
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985380-y.jpg" width="300"></p> 
 
-Дайте разрешение **на уведомления** `позволит получать уведомление о обновлениях`.
+## Initial Setup
+
+1. **Enable notifications** – This will allow you to receive update alerts.  
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985378-y.jpg" width="300"></p> 
 
-Создайте аккаунт `или используйте данные которые Вы использовали при активации CLICK для телевизоров`.
+2. **Create an account** or use the same login credentials you used for activating CLICK on Smart TVs.  
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985379-y.jpg" width="300"></p> 
 
-Зайдите в свой Google аккаунт `получите доступ к своим рекомендациям и подборкам, смотрите любимые видео из подписок`.
+3. **Sign in to your Google account** – Access your personalized recommendations, curated content, and watch your favorite subscribed videos.  
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985377-y.jpg" width="300"></p> 

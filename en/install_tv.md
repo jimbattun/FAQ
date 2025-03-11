@@ -1,33 +1,35 @@
-# Настройка CLICK на телевизорах
+# Setting Up CLICK on Smart TVs
 
-Перейди на сайт [tvclick.app](https://tvclick.app/), создайте аккаунт `или используйте данные которые Вы использовали при активации Android приложения`.
+Go to [tvclick.app](https://tvclick.app/) and create an account,  
+or use the same credentials you used for activating the Android app.
 
-Ввести Вашу почту. Почта не обязательна должна совпадать с вашим Google аккаунтом.
+Enter your email. It does not have to match your Google account.
 
 <p align="center"><img src="image-12.png" width="400"></p> 
 
-Ввести Ваш код активации и нажмите активировать.
+Enter your activation code and click **Activate**.
 
 <p align="center"><img src="image-13.png" width="400"></p> 
 
-Для добавления вашего телевизора небходимо ввести **код** и **название телевизора**. 
+To add your TV, you need to enter a **code** and a **TV name**.
 
 <p align="center"><img src="image-14.png" width="400"></p> 
 
-Код телевизора можно узнать в **приложении YouTube на вашем телевизоре**, `Настройки → Настройки →  Подключение с помощью Кода`. На экране появится код **синего цвета**. Этот код меняется каждые несколько минут.
+You can find the TV code in the **YouTube app on your TV**:  
+`Settings → Settings → Connect using a Code`.  
+A **blue code** will appear on the screen. This code changes every few minutes.
 
 <p align="center"><img src="image-4.png" width="500"></p> 
 
-Название телевизора может быть любым.
+The TV name can be anything you choose.
 
-Введите этот код и название в поля и нажмите кнопку ***Добавить***.
+Enter the code and TV name in the fields and click ***Add***.
 
 <p align="center"><img src="image-16.png" width="400"></p> 
 
-
-CLICK **настроен**. Чтобы удалить или добавить устройство, успользуйте личный кабинет tvclick.app и данный вашего аккаунта.
+CLICK is now **set up**.  
+To remove or add a device, use your personal account on tvclick.app.
 
 <p align="center"><img src="image-11.png" width="400"></p> 
 
-
-> В личном кабинете можно добавить до 3-х любых устройств (телевизоры, игровые консоли, TV приставки).
+> You can add up to **three** devices (TVs, game consoles, TV boxes) in your account.

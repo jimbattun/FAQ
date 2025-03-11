@@ -1,10 +1,11 @@
-## Продление
+## Subscription Renewal
 
-Продлить подписку можно через личный кабинет на tvclick.app: `Настройки → Управление подпиской → Внести код активации → Активировать`.
+You can renew your subscription through your personal account on [tvclick.app](https://tvclick.app):  
+`Settings → Subscription Management → Enter Activation Code → Activate`.
 
 <p align="center"><img src="image-6.png" width="400"></p> 
 
 
 ```
-Максимальный срок суммирования подписок составляет 6 лет.
+The maximum cumulative subscription period is 6 years.
 ```

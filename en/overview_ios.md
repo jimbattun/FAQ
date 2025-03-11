@@ -1,51 +1,45 @@
-## Информация
+## Information
 
-> В этой статье рассказывается о CLICK для iOS — многофункциональном расширении для Safari, которое позволяет смотреть ваши любимые ролики без рекaламы и рекламных интеграций на iPhone и iPad. Чтобы увидеть, как он работает, скачайте приложение [CLICK: Watch Video](https://apps.apple.com/us/app/click-watch-video/id6740205263).
+> This article covers CLICK for iOS — a multifunctional Safari extension that allows you to watch your favorite videos without ads or sponsored integrations on iPhone and iPad. To see how it works, download the [CLICK: Watch Video](https://apps.apple.com/us/app/click-watch-video/id6740205263) app.
 
 <p align="center"><img src="image-17.png" width="300"></p> 
 
-## Системные требования
+## System Requirements
 
-> * Версия ОС: iOS или iPadOS 15.0 или выше
+> * OS Version: iOS or iPadOS 15.0 or higher  
 
-## Инструкции
-- [Инструкция по настройке](/install_ios.md)
+## Guides
 
-## Функции
+- [Setup Guide](/install_ios.md)  
 
-* Без рекламы
+## Features
 
-`Смотрите любимый контент без рекламы от YouTube и наслаждайтесь пропуском рекламных интеграций от блогеров.`
+### *Ad-Free Experience*  
+`Watch your favorite content without YouTube ads and skip sponsored integrations from creators.`  
 
-* Просмотр в фоне и "Окне в окне"
+### *Background & Picture-in-Picture Playback*  
+`Listen to your favorite videos, music, and podcasts in the background.`  
 
-`Прослушивайте любимые видео, музыку и подкасты в фоновом режиме.`
+### *No Sponsored Integrations*  
+`Detects and removes sponsored integrations from videos.`  
 
-* Без интеграций
+## Usage  
 
-`В роликах будут найдены и удалены рекламные интеграции от блогеров.`
+### *Viewing Sponsored Integrations on the Timeline*  
+To see sponsored segments on the timeline, tap the "Integrations" button.  
+The ad sections will be highlighted in green.  
 
-## Использование
+<p align="center"><img src="IMG_583266C6AF72-1.jpeg" width="300"></p>  
 
-* Просмотр рекламных интеграций на таймлайне
+### *Using Picture-in-Picture Mode*  
+To enable Picture-in-Picture mode, simply tap the corresponding icon.  
 
-Чтобы увидеть рекламные интеграции на таймлайне, нажмите кнопку "Интеграции". Зоны с интеграциями будут выделены зеленым цветом.
+<p align="center"><img src="IMG_8158A2DFD36A-1.jpeg" width="300"></p>  
 
-<p align="center"><img src="IMG_583266C6AF72-1.jpeg" width="300"></p>
+### *Background Playback*  
+To play a video in the background:  
+1. Start the video.  
+2. Lock the screen – the video will pause automatically.  
+3. Resume playback by pressing the play button on the lock screen.  
 
-* Просмотр в режиме "Окно в окне"
-
-Для включения режима "Окно в окне" просто нажмите на соответствующую иконку.
-
-<p align="center"><img src="IMG_8158A2DFD36A-1.jpeg" width="300"></p>
-
-* Просмотр в режиме воспроизведения в фоне
-
-Чтобы воспроизвести видео в фоне, запустите его, а затем заблокируйте экран. Видео автоматически остановится, но вы можете возобновить воспроизведение, нажав кнопку воспроизведения на заблокированном экране.
-
-<p align="center"><img src="2025-01-13.56.42.jpg" width="300"></p>
-
-
-
-
-
+<p align="center"><img src="2025-01-13.56.42.jpg" width="300"></p>  

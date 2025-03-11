@@ -1,5 +1,5 @@
-# Ограничения CLICK на телевизорах
+# CLICK Limitations on Smart TVs
 
-В настоящий момент в CLICK не реализован просмотр Shorts на телевизоре.
+Currently, CLICK does not support watching Shorts on TVs.
 
-Решением является возможность отключение сервиса в личном кабинете tvclick.app
+As a workaround, you can disable the service in your personal account on [tvclick.app](https://tvclick.app/).

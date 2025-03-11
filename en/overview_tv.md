@@ -1,32 +1,28 @@
-## Информация
+## Information
 
-> В этой статье рассказывается о CLICK для телевизоров — сервис который позволяет смотреть ваши любимые ролики без рекламных интеграций. Чтобы увидеть, как он работает, добавте Ваше [устройство](https://tvclick.app/).
+> This article covers CLICK for Smart TVs — a service that allows you to watch your favorite videos without sponsored integrations. To see how it works, add your [device](https://tvclick.app/).
 
-- [Личный кабинет](https://tvclick.app/)
-- [Инстукция по настройке](/install_tv.md)
-- [Статус работы сервиса](https://status.myclick.app/)
+- [Personal Account](https://tvclick.app/)  
+- [Setup Guide](/install_tv.md)  
+- [Service Status](https://status.myclick.app/)  
 
-## Поддержка устройств
+## Supported Devices
 
-> * Все актуальные устройска с поддержкой SmartTV - Samsung, LG, TCL, Hisense, Sony;
-> * ТВ-приставки - ANDROID TV / APPLE TV;
-> * Игровые консоли - PLAYSTATION / XBOX / SWITCH;
+> * All modern Smart TVs — Samsung, LG, TCL, Hisense, Sony  
+> * TV Boxes — ANDROID TV / APPLE TV  
+> * Gaming Consoles — PLAYSTATION / XBOX / SWITCH  
 
+## Features
 
-## Функции
+### *No Sponsored Integrations*  
+`The service automatically skips built-in sponsored integrations from creators.`  
 
-* Без интеграций
+### *Seamless Viewing Experience*  
+`CLICK automatically presses the "Skip Ad" button when it appears. For short unskippable ads, the service mutes the sound.`  
 
-`Сервис автоматически пропускает встроенные рекламные интеграции от блогеров`.
+### *Accessibility*  
+`CLICK does not require installing an app on your TV.`  
 
-* Комфортный просмотр
+## CLICK Limitations on Smart TVs  
 
-`Сервис самостоятельно нажимает на кнопку "Пропустить рекламу" при ее появлении.В коротких рекламных вставках, где нет активной кнопки пропуска рекламы, сервис приглушает звук`.
-
-* Доступность
-
-`CLICK не требует установки приложения на телевизор`.
-
-## Ограничения CLICK на телевизорах
-
-В настоящий момент в CLICK не реализован просмотр Shorts на телевизоре.
+Currently, CLICK does not support watching Shorts on TVs.  

@@ -1,7 +1,6 @@
-# Поддержка для покупателей
+# Customer Support
 
 ```
-Почта: support@myclick.app
-
+Email: support@myclick.app
 Telegram: @myclicksupport_bot
 ```

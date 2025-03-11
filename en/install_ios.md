@@ -1,40 +1,46 @@
-# Установка CLICK на iOS
+# Installing CLICK on iOS
 
-Скачайте и установите приложение через App Store на ваш смартфон или планшет.
+Download and install the app via the App Store on your smartphone or tablet.
 
-> Расширение для Safari iOS находится в режиме тестирования только для iPhone.
+> The Safari extension for iOS is currently in testing mode and is available only for iPhone.
 
-Актуальная версия приложения доступна в [AppStore](https://apps.apple.com/us/app/click-watch-video/id6740205263).
+The latest version of the app is available on the [App Store](https://apps.apple.com/us/app/click-watch-video/id6740205263).
 
-Перейдите в AppStore и нажмите **Установить**. 
+Go to the App Store and tap **Install**.
 
 <p align="center"><img src="IMG_82C64D0B7C97-1.jpeg" width="300"></p> 
 
-После установки приложение будет готово к использованию. Для настройки откройте приложение, нажав на его значок в списке установленных приложений, и следуйте инструкциям.
+Once installed, the app is ready to use. To set it up, open the app by tapping its icon in the list of installed applications and follow the instructions.
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628112-y.jpg" width="300"></p> 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628111-y.jpg" width="300"></p> 
 
-Для полноценной работы расширения нужно включить его в настройках Safari. Перейдите в `Настройки - Safari - Расширения - CLICK`, и разрешите необходимые параметры.
+## Enabling the Safari Extension
+
+For the extension to work properly, it must be enabled in Safari settings:
+
+1. Go to `Settings → Safari → Extensions → CLICK`  
+2. Enable the necessary permissions.
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628110-y.jpg" width="300"></p> 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628109-y.jpg" width="300"></p> 
 
-После настройки откройте Safari и перейдите на сайт youtube.com.
-Как только страница загрузится, откройте меню настроек страницы (значок в виде пазла в нижнем левом углу).
+## Using CLICK in Safari
+
+1. Open Safari and go to **youtube.com**.  
+2. Once the page loads, open the page settings menu (puzzle icon in the bottom left corner).  
 
 <p align="center"><img src="2025-01-15 16.14.01.jpg" width="300"></p> 
 
-Перейдите в CLICK.
+3. Select **CLICK**.  
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628108-y.jpg" width="300"></p> 
 
-Введите ваш логин и пароль в поле авторизации.
+4. Enter your **login and password** in the authentication field.  
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628107-y.jpg" width="300"></p> 
 
-После успешной авторизации вы сможете использовать все функции приложения CLICK.
+Once successfully logged in, you can use all the features of the CLICK app.
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628105-y.jpg" width="300"></p> 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628104-y.jpg" width="300"></p> 
-

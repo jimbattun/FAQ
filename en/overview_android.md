@@ -1,31 +1,26 @@
-## Информация
+## Information
 
-> В этой статье рассказывается о CLICK для Android — многофункциональном приложении, которое позволяет смотреть ваши любимые ролики без рекaламы и рекламных интеграций . Чтобы увидеть, как он работает, скачайте приложение [CLICK](https://myclick.app/app).
+> This article covers CLICK for Android — a multifunctional app that allows you to watch your favorite videos without ads or sponsored integrations. To see how it works, download the [CLICK](https://myclick.app/app) app.
 
-- [Инструкция по настройке](/install_android.md)
-- [Скачать актуальную версию](https://myclick.app/app)
+- [Setup Guide](/install_android.md)  
+- [Download the latest version](https://myclick.app/app)  
 
-## Системные требования
-> * Версия ОС: Android 9.0 или выше
-> * Объём оперативной памяти: от 2 ГБ
-> * Свободное пространство на диске: 500 МБ
+## System Requirements
 
-## Функции
-* Без рекламы
+> * OS Version: Android 9.0 or higher  
+> * RAM: 2GB or more  
+> * Free storage space: 500MB  
 
-`Смотрите любимый контент без рекламы от YouTube и наслаждайтесь пропуском рекламных интеграций от блогеров.`
+## Features
 
-* Синхронизация c Google сервисами
+### *Ad-Free Experience*  
+`Watch your favorite content without YouTube ads and skip sponsored integrations from creators.`  
 
-`Полная синхронизация просмотров и действия с вашим аккаунтом, с доступом к плейлистам, подпискам, подборкам и рекомендациям.`
+### *Google Services Synchronization*  
+`Full sync with your account, including access to playlists, subscriptions, personalized recommendations, and watch history.`  
 
+### *Background & Picture-in-Picture Playback*  
+`Listen to your favorite videos, music, and podcasts in the background.`  
 
-* Просмотр в фоне и "Окне"
-
-`Прослушивайте любимые видео, музыку и подкасты в фоновом режиме.`
-
-* Скачивание
-
-`Загрузка контента в несколько потоков, скачивайте аудио или видео.`
-
-
+### *Download Content*  
+`Multi-threaded downloading allows you to save audio or video files for offline viewing.`  
