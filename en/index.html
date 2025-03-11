@@ -47,7 +47,7 @@
 
       // Определяем язык браузера пользователя
       const userLang = navigator.language || navigator.userLanguage;
-      let defaultLang = "/en/"; // Теперь английский по умолчанию
+      let defaultLang = "/en/"; // Английский по умолчанию
 
       if (currentPath === "/") { // Только если пользователь впервые на сайте
         if (userLang.startsWith("ru")) {
@@ -67,9 +67,9 @@
         langSwitcher.value = "/en/";
       }
 
-      // Обработчик смены языка вручную
+      // Обработчик смены языка (возвращаем на README.md)
       langSwitcher.addEventListener("change", function () {
-        window.location.href = this.value;
+        window.location.href = this.value + "#/README"; // Переход на главную страницу
       });
     });
 
@@ -78,7 +78,7 @@
       repo: '',
       loadSidebar: true,
       alias: {
-        '/': '/en/', // Английский теперь основная локаль
+        '/': '/en/', // Английский по умолчанию
         '/ru/': '/ru/',
         '/pl/': '/pl/'
       }
