@@ -44,18 +44,25 @@
     document.addEventListener("DOMContentLoaded", function () {
       const langSwitcher = document.getElementById("lang-switcher");
       const currentPath = window.location.pathname;
+      const currentHash = window.location.hash;
 
       // Определяем язык браузера пользователя
       const userLang = navigator.language || navigator.userLanguage;
       let defaultLang = "/en/"; // Английский по умолчанию
 
-      if (currentPath === "/") { // Только если пользователь впервые на сайте
+      // Если пользователь впервые на сайте, определить язык браузера
+      if (currentPath === "/") {
         if (userLang.startsWith("ru")) {
           defaultLang = "/ru/";
         } else if (userLang.startsWith("pl")) {
           defaultLang = "/pl/";
         }
-        window.location.replace(defaultLang);
+        window.location.replace(defaultLang + "#/README");
+      }
+
+      // Если путь без хэша, добавить #/README
+      if (!currentHash || currentHash === "#/") {
+        window.location.hash = "#/README";
       }
 
       // Устанавливаем значение в селекторе
@@ -69,7 +76,7 @@
 
       // Обработчик смены языка (возвращаем на README.md)
       langSwitcher.addEventListener("change", function () {
-        window.location.href = this.value + "#/README"; // Переход на главную страницу
+        window.location.href = this.value + "#/README";
       });
     });
 
