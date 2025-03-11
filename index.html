@@ -19,14 +19,16 @@
       font-weight: bold;
     }
     .lang-selector {
-      position: absolute;
+      position: fixed;
       top: 10px;
       right: 20px;
+      z-index: 1000;
     }
   </style>
 </head>
 <body>
 
+  <!-- Выпадающий список для смены языка -->
   <div class="lang-selector">
     <select id="lang-switcher">
       <option value="/">🇷🇺 Русский</option>
@@ -35,11 +37,27 @@
     </select>
   </div>
 
+  <!-- Контейнер для Docsify -->
   <div id="app"></div>
 
   <script>
-    document.getElementById('lang-switcher').addEventListener('change', function() {
-      window.location.pathname = this.value;
+    document.addEventListener("DOMContentLoaded", function () {
+      const langSwitcher = document.getElementById("lang-switcher");
+
+      // Определяем текущий язык по URL
+      const currentPath = window.location.pathname;
+      if (currentPath.startsWith("/en/")) {
+        langSwitcher.value = "/en/";
+      } else if (currentPath.startsWith("/pl/")) {
+        langSwitcher.value = "/pl/";
+      } else {
+        langSwitcher.value = "/";
+      }
+
+      // Обработчик смены языка
+      langSwitcher.addEventListener("change", function () {
+        window.location.href = this.value;
+      });
     });
 
     window.$docsify = {
@@ -53,7 +71,7 @@
       }
     };
   </script>
-  
+
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 
 </body>
