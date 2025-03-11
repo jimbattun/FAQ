@@ -1,15 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CLICK Documentation</title>
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
   
-  <!-- Добавляем иконку -->
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <style>
-    /* Стили для логотипа над заголовком */
     .custom-logo {
       display: flex;
       justify-content: center;
@@ -20,23 +18,43 @@
       font-size: 2em;
       font-weight: bold;
     }
+    .lang-selector {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+    }
   </style>
 </head>
 <body>
 
+  <div class="lang-selector">
+    <select id="lang-switcher">
+      <option value="/">🇷🇺 Русский</option>
+      <option value="/en/">🇬🇧 English</option>
+      <option value="/pl/">🇵🇱 Polski</option>
+    </select>
+  </div>
 
-  
-  <!-- Основной контейнер для документации Docsify -->
   <div id="app"></div>
 
   <script>
+    document.getElementById('lang-switcher').addEventListener('change', function() {
+      window.location.pathname = this.value;
+    });
+
     window.$docsify = {
       name: 'CLICK Documentation',
       repo: '',
       loadSidebar: true,
-      basePath: '/',  // Задаем корневой путь
-    }
+      alias: {
+        '/': '/ru/',
+        '/en/': '/en/',
+        '/pl/': '/pl/'
+      }
+    };
   </script>
+  
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
 </body>
 </html>
