@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,8 +31,8 @@
   <!-- Выпадающий список для смены языка -->
   <div class="lang-selector">
     <select id="lang-switcher">
+      <option value="/">🇷🇺 Русский</option>
       <option value="/en/">🇬🇧 English</option>
-      <option value="/ru/">🇷🇺 Русский</option>
       <option value="/pl/">🇵🇱 Polski</option>
     </select>
   </div>
@@ -47,11 +47,11 @@
 
       // Определяем язык браузера пользователя
       const userLang = navigator.language || navigator.userLanguage;
-      let defaultLang = "/en/"; // Теперь английский по умолчанию
+      let defaultLang = "/"; // По умолчанию русский
 
       if (currentPath === "/") { // Только если пользователь впервые на сайте
-        if (userLang.startsWith("ru")) {
-          defaultLang = "/ru/";
+        if (userLang.startsWith("en")) {
+          defaultLang = "/en/";
         } else if (userLang.startsWith("pl")) {
           defaultLang = "/pl/";
         }
@@ -59,12 +59,12 @@
       }
 
       // Устанавливаем значение в селекторе
-      if (currentPath.startsWith("/ru/")) {
-        langSwitcher.value = "/ru/";
+      if (currentPath.startsWith("/en/")) {
+        langSwitcher.value = "/en/";
       } else if (currentPath.startsWith("/pl/")) {
         langSwitcher.value = "/pl/";
       } else {
-        langSwitcher.value = "/en/";
+        langSwitcher.value = "/";
       }
 
       // Обработчик смены языка вручную
@@ -77,12 +77,10 @@
       name: 'CLICK Documentation',
       repo: '',
       loadSidebar: true,
-      basePath: '/',  // Указываем корневой путь
       alias: {
-        '/': '/en/',
-        '/ru/': '/ru/',
-        '/pl/': '/pl/',
+        '/': '/ru/',
         '/en/': '/en/',
+        '/pl/': '/pl/'
       }
     };
   </script>
