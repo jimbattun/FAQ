@@ -1,4 +1,4 @@
-```markdown
+
 # Instalacja CLICK na Androida
 
 Pobierz i zainstaluj aplikację za pomocą **pliku APK** na smartfonie lub tablecie.
@@ -43,4 +43,3 @@ CLICK **zainstalowany**. Aby uruchomić aplikację, kliknij jej ikonę na liści
 3. **Zaloguj się na konto Google** – uzyskaj dostęp do swoich rekomendacji, list odtwarzania, subskrypcji i ulubionych filmów.  
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985377-y.jpg" width="300"></p> 
-```

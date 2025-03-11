@@ -2,18 +2,18 @@
 
 * [Главная](README.md)
 
-* CLIKC для SmartTV  
+* CLICK для SmartTV  
   * [Обзор функций](overview_tv.md)
   * [Установка и настройка](install_tv.md)
   * [Ограничения](limitations_tv.md)
   * [Поддержка](support.md)
 
-* CLIKC для Andoid
+* CLICK для Andoid
   * [Обзор функций](overview_android.md)
   * [Установка и настройка](install_android.md)
   * [Поддержка](support.md)
 
-* CLIKC для iOS
+* CLICK для iOS
   * [Обзор функций](overview_ios.md)
   * [Установка и настройка](install_ios.md)
   * [Поддержка](support.md)

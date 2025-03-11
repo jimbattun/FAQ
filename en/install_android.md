@@ -11,7 +11,7 @@ The latest version of the app is available on the [official website](https://myc
 
 ## Installation Steps
 
-### For Android 8 and newer:
+### For Android 9 and newer:
 
 1. Tap on the downloaded CLICK APK file, then tap **Install**.  
 2. If installation from the browser is not allowed, you will see a notification.  

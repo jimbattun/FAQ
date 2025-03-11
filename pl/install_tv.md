@@ -1,4 +1,3 @@
-```markdown
 # Konfiguracja CLICK na telewizorach
 
 Przejdź na stronę [tvclick.app](https://tvclick.app/), załóż konto  
@@ -35,4 +34,3 @@ Aby dodać lub usunąć urządzenie, skorzystaj z panelu użytkownika na tvclick
 <p align="center"><img src="image-11.png" width="400"></p> 
 
 > W panelu użytkownika można dodać maksymalnie 3 urządzenia (telewizory, konsole do gier, przystawki TV).
-```

@@ -1,4 +1,3 @@
-```markdown
 # Instalacja CLICK na iOS
 
 Pobierz i zainstaluj aplikację za pomocą App Store na swoim smartfonie lub tablecie.
@@ -45,4 +44,3 @@ Po pomyślnym zalogowaniu możesz korzystać ze wszystkich funkcji aplikacji CLI
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628105-y.jpg" width="300"></p> 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628104-y.jpg" width="300"></p> 
-```

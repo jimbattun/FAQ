@@ -1,4 +1,3 @@
-```markdown
 # Beta testowanie CLICK
 
 Wersje CLICK dla wszystkich platform są regularnie aktualizowane.  
@@ -10,4 +9,3 @@ Jeśli chcesz dołączyć do zespołu, który pomaga ulepszać usługę, skontak
 
 Celem Bazy Wiedzy jest dostarczanie użytkownikom aktualnych i kompleksowych informacji o wszystkich aspektach działania usługi CLICK.  
 Ponieważ nasze produkty stale się rozwijają, artykuły w Bazie Wiedzy są regularnie aktualizowane, aby pozostały przydatne i zgodne z najnowszymi zmianami.
-```

@@ -2,23 +2,23 @@
 
 * [Home](README.md)
 
-* CLIKC for SmartTV  
+* CLICK for SmartTV  
   * [Feature Overview](overview_tv.md)
   * [Installation and Setup](install_tv.md)
   * [Limitations](limitations_tv.md)
   * [Support](support.md)
 
-* CLIKC for Android  
+* CLICK for Android  
   * [Feature Overview](overview_android.md)
   * [Installation and Setup](install_android.md)
   * [Support](support.md)
 
-* CLIKC for iOS  
+* CLICK for iOS  
   * [Feature Overview](overview_ios.md)
   * [Installation and Setup](install_ios.md)
   * [Support](support.md)
 
-* [CLIKC Team](join.md)
+* [CLICK Team](join.md)
 
 * Guides  
   * [Smart TV Setup Guide](install_tv.md)
