@@ -74,17 +74,16 @@
     });
 
     window.$docsify = {
-    name: 'CLICK Documentation',
-    repo: '',
-    loadSidebar: true,
-    basePath: '/docs/',  // Корневая папка документации
-    routerMode: 'history', // Убираем # из URL (Pretty URLs)
-    alias: {
-      '/': '/en/',    // Английский по умолчанию
-      '/en/': '/en/',
-      '/ru/': '/ru/',
-      '/pl/': '/pl/'
-    }
+      name: 'CLICK Documentation',
+      repo: '',
+      loadSidebar: true,
+      basePath: '/',  // Указываем корневой путь
+      alias: {
+        '/': '/en/',
+        '/ru/': '/ru/',
+        '/pl/': '/pl/',
+        '/en/': '/en/',
+      }
     };
   </script>
 
