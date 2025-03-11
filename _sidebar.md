@@ -4,7 +4,7 @@
 
 * CLIKC для SmartTV  
   * [Обзор функций](overview_tv.md)
-  * [Установка и настройка](install_on_TV.md)
+  * [Установка и настройка](install_tv.md)
   * [Ограничения](limitations_tv.md)
   * [Поддержка](support.md)
 
