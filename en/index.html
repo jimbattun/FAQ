@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CLICK Documentation</title>
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <style>
+    .custom-logo {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    .docsify-logo {
+      text-align: center;
+      font-size: 2em;
+      font-weight: bold;
+    }
+    .lang-selector {
+      position: fixed;
+      top: 10px;
+      right: 20px;
+      z-index: 1000;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Выпадающий список для смены языка -->
+  <div class="lang-selector">
+    <select id="lang-switcher">
+      <option value="/">🇷🇺 Русский</option>
+      <option value="/en/">🇬🇧 English</option>
+      <option value="/pl/">🇵🇱 Polski</option>
+    </select>
+  </div>
+
+  <!-- Контейнер для Docsify -->
+  <div id="app"></div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const langSwitcher = document.getElementById("lang-switcher");
+
+      // Определяем текущий язык по URL
+      const currentPath = window.location.pathname;
+      if (currentPath.startsWith("/en/")) {
+        langSwitcher.value = "/en/";
+      } else if (currentPath.startsWith("/pl/")) {
+        langSwitcher.value = "/pl/";
+      } else {
+        langSwitcher.value = "/";
+      }
+
+      // Обработчик смены языка
+      langSwitcher.addEventListener("change", function () {
+        window.location.href = this.value;
+      });
+    });
+
+    window.$docsify = {
+      name: 'CLICK Documentation',
+      repo: '',
+      loadSidebar: true,
+      alias: {
+        '/': '/ru/',
+        '/en/': '/en/',
+        '/pl/': '/pl/'
+      }
+    };
+  </script>
+
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+</body>
+</html>
