@@ -1,66 +1,66 @@
-## Что такое сервис CLICK?
+## What is the CLICK service?
+
+CLICK is one of the leading solutions in the market for enhancing the user experience on YouTube. The service is available on various platforms. Unlike most solutions that work through a browser, we offer standalone applications for mobile devices and Smart TVs:
+
+- [CLICK for Android](/overview_android.md)
+- [CLICK for SmartTV](/overview_tv.md)
+- [CLICK for iOS](/overview_ios.md)
 
 
-CLICK — один из лидеров на рынке программ для улучшения пользовательского опыта при использовании YouTube. Сервис доступен для различных платформ. В отличие от большинства решений, работающих через браузер, мы предлагаем отдельные приложения для мобильных устройств и SmartTV:
-
-- [CLICK для Android](/overview_android.md)
-- [CLICK для SmartTV](/overview_tv.md)
-- [CLICK для iOS](/overview_ios.md)
+# CLICK for Android
 
 
-# CLICK для Android
+- **No ads**  
+  
+  `Watch your favorite content without YouTube ads.`
 
+- **No integrations**  
+  
+  `The service automatically skips built-in advertising integrations from bloggers.`
 
-- **Без рекламы**
+- **Synchronization with Google services**  
+  
+  `Full synchronization of your watch history and actions with your account, including access to playlists, subscriptions, collections, and recommendations.`
 
-`Смотрите любимый контент без рекламы от YouTube.`
+- **Background playback and "Picture-in-Picture"**  
+  
+  `Listen to your favorite videos, music, and podcasts in the background.`
 
-- **Без интеграций**
-
-`Сервис автоматически пропускает встроенные рекламные интеграции от блогеров`
-
-- **Синхронизация c Google сервисами**
-
-`Полная синхронизация просмотров и действий с вашим аккаунтом, с доступом к плейлистам, подпискам, подборкам и рекомендациям.`
-
-- **Просмотр в фоне и "Окне"**
-
-`Прослушивайте любимые видео, музыку и подкасты в фоновом режиме.`
-
-- **Скачивание**
-
-`Загрузка контента в несколько потоков, скачивайте аудио или видео.`
-
-
-
-# CLICK для SmartTV
-
-- **Без интеграций**
-
-`Сервис автоматически пропускает встроенные рекламные интеграции от блогеров.`
-
-- **Комфортный просмотр**
-
-`Сервис самостоятельно нажимает на кнопку "Пропустить рекламу" при ее появлении. В коротких рекламных вставках, где нет активной кнопки пропуска рекламы, сервис приглушает звук.`
-
-- **Доступность**
-
-`CLICK не требует установки приложения на телевизор.`
+- **Downloading**  
+  
+  `Download content in multiple threads, saving audio or video.`
 
 
 
+# CLICK for SmartTV
 
-# CLICK для iOS
+- **No integrations**  
+  
+  `The service automatically skips built-in advertising integrations from bloggers.`
 
-- **Без рекламы**
+- **Comfortable viewing**  
+  
+  `The service automatically clicks the "Skip Ad" button when it appears. In short ad inserts where there is no active skip button, the service mutes the sound.`
 
-`Смотрите любимый контент без рекламы от YouTube и наслаждайтесь пропуском рекламных интеграций от блогеров.`
+- **Availability**  
+  
+  `CLICK does not require installing an app on your TV.`
 
-- **Просмотр в фоне и "Окне в окне"**
 
-`Прослушивайте любимые видео, музыку и подкасты в фоновом режиме.`
 
-- **Без интеграций**
 
-`В роликах будут найдены и удалены рекламные интеграции от блогеров.`# FAQ
+# CLICK for iOS
+
+- **No ads**  
+  
+  `Watch your favorite content without YouTube ads and enjoy skipping advertising integrations from bloggers.`
+
+- **Background playback and "Picture-in-Picture"**  
+  
+  `Listen to your favorite videos, music, and podcasts in the background.`
+
+- **No integrations**  
+  
+  `Advertising integrations from bloggers will be detected and removed from videos.`
+
 # FAQ
