@@ -1,33 +1,38 @@
-# Настройка CLICK на телевизорах
+```markdown
+# Konfiguracja CLICK na telewizorach
 
-Перейди на сайт [tvclick.app](https://tvclick.app/), создайте аккаунт `или используйте данные которые Вы использовали при активации Android приложения`.
+Przejdź na stronę [tvclick.app](https://tvclick.app/), załóż konto  
+`lub użyj danych logowania, które wykorzystałeś podczas aktywacji aplikacji na Androidzie`.
 
-Ввести Вашу почту. Почта не обязательна должна совпадать с вашим Google аккаунтом.
+Wprowadź swój adres e-mail.  
+Nie musi on być taki sam jak adres powiązany z Twoim kontem Google.
 
 <p align="center"><img src="image-12.png" width="400"></p> 
 
-Ввести Ваш код активации и нажмите активировать.
+Wprowadź kod aktywacyjny i kliknij **Aktywuj**.
 
 <p align="center"><img src="image-13.png" width="400"></p> 
 
-Для добавления вашего телевизора небходимо ввести **код** и **название телевизора**. 
+Aby dodać swój telewizor, wprowadź **kod** oraz **nazwę telewizora**.
 
 <p align="center"><img src="image-14.png" width="400"></p> 
 
-Код телевизора можно узнать в **приложении YouTube на вашем телевизоре**, `Настройки → Настройки →  Подключение с помощью Кода`. На экране появится код **синего цвета**. Этот код меняется каждые несколько минут.
+Kod telewizora można znaleźć w **aplikacji YouTube na telewizorze**:  
+`Ustawienia → Ustawienia → Połącz za pomocą kodu`.  
+Na ekranie pojawi się **niebieski kod**, który zmienia się co kilka minut.
 
 <p align="center"><img src="image-4.png" width="500"></p> 
 
-Название телевизора может быть любым.
+Nazwa telewizora może być dowolna.
 
-Введите этот код и название в поля и нажмите кнопку ***Добавить***.
+Wprowadź kod oraz nazwę w odpowiednie pola i kliknij przycisk ***Dodaj***.
 
 <p align="center"><img src="image-16.png" width="400"></p> 
 
-
-CLICK **настроен**. Чтобы удалить или добавить устройство, успользуйте личный кабинет tvclick.app и данный вашего аккаунта.
+CLICK **jest skonfigurowany**.  
+Aby dodać lub usunąć urządzenie, skorzystaj z panelu użytkownika na tvclick.app.
 
 <p align="center"><img src="image-11.png" width="400"></p> 
 
-
-> В личном кабинете можно добавить до 3-х любых устройств (телевизоры, игровые консоли, TV приставки).
+> W panelu użytkownika można dodać maksymalnie 3 urządzenia (telewizory, konsole do gier, przystawki TV).
+```

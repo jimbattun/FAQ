@@ -1,51 +1,48 @@
-## Информация
+```markdown
+## Informacje
 
-> В этой статье рассказывается о CLICK для iOS — многофункциональном расширении для Safari, которое позволяет смотреть ваши любимые ролики без рекaламы и рекламных интеграций на iPhone и iPad. Чтобы увидеть, как он работает, скачайте приложение [CLICK: Watch Video](https://apps.apple.com/us/app/click-watch-video/id6740205263).
+> Ten artykuł dotyczy CLICK dla iOS — wielofunkcyjnego rozszerzenia dla Safari, które pozwala oglądać ulubione filmy bez reklam i sponsorowanych treści na iPhone i iPad.  
+> Aby zobaczyć, jak działa, pobierz aplikację [CLICK: Watch Video](https://apps.apple.com/us/app/click-watch-video/id6740205263).
 
 <p align="center"><img src="image-17.png" width="300"></p> 
 
-## Системные требования
+## Wymagania systemowe
 
-> * Версия ОС: iOS или iPadOS 15.0 или выше
+> * Wersja systemu: iOS lub iPadOS 15.0 lub nowszy  
 
-## Инструкции
-- [Инструкция по настройке](/install_ios.md)
+## Instrukcje
 
-## Функции
+- [Instrukcja konfiguracji](/install_ios.md)  
 
-* Без рекламы
+## Funkcje
 
-`Смотрите любимый контент без рекламы от YouTube и наслаждайтесь пропуском рекламных интеграций от блогеров.`
+### *Bez reklam*  
+`Oglądaj ulubione treści bez reklam z YouTube i ciesz się automatycznym pomijaniem sponsorowanych treści od twórców.`  
 
-* Просмотр в фоне и "Окне в окне"
+### *Odtwarzanie w tle i tryb "Obraz w obrazie"*  
+`Słuchaj ulubionych filmów, muzyki i podcastów w tle.`  
 
-`Прослушивайте любимые видео, музыку и подкасты в фоновом режиме.`
+### *Bez sponsorowanych integracji*  
+`CLICK wykrywa i usuwa sponsorowane integracje w filmach.`  
 
-* Без интеграций
+## Używanie aplikacji  
 
-`В роликах будут найдены и удалены рекламные интеграции от блогеров.`
+### *Podgląd sponsorowanych integracji na osi czasu*  
+Aby zobaczyć sponsorowane integracje na osi czasu, naciśnij przycisk **"Integracje"**.  
+Zaznaczone fragmenty zostaną podświetlone na zielono.  
 
-## Использование
+<p align="center"><img src="IMG_583266C6AF72-1.jpeg" width="300"></p>  
 
-* Просмотр рекламных интеграций на таймлайне
+### *Odtwarzanie w trybie "Obraz w obrazie"*  
+Aby włączyć tryb "Obraz w obrazie", po prostu naciśnij odpowiednią ikonę.  
 
-Чтобы увидеть рекламные интеграции на таймлайне, нажмите кнопку "Интеграции". Зоны с интеграциями будут выделены зеленым цветом.
+<p align="center"><img src="IMG_8158A2DFD36A-1.jpeg" width="300"></p>  
 
-<p align="center"><img src="IMG_583266C6AF72-1.jpeg" width="300"></p>
+### *Odtwarzanie w tle*  
+Aby odtworzyć wideo w tle:  
+1. Uruchom film.  
+2. Zablokuj ekran – wideo zostanie automatycznie zatrzymane.  
+3. Aby wznowić odtwarzanie, naciśnij przycisk **play** na zablokowanym ekranie.  
 
-* Просмотр в режиме "Окно в окне"
-
-Для включения режима "Окно в окне" просто нажмите на соответствующую иконку.
-
-<p align="center"><img src="IMG_8158A2DFD36A-1.jpeg" width="300"></p>
-
-* Просмотр в режиме воспроизведения в фоне
-
-Чтобы воспроизвести видео в фоне, запустите его, а затем заблокируйте экран. Видео автоматически остановится, но вы можете возобновить воспроизведение, нажав кнопку воспроизведения на заблокированном экране.
-
-<p align="center"><img src="2025-01-13.56.42.jpg" width="300"></p>
-
-
-
-
-
+<p align="center"><img src="2025-01-13.56.42.jpg" width="300"></p>  
+```

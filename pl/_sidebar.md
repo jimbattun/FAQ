@@ -1,28 +1,28 @@
 <!-- docs/_sidebar.md -->
 
-* [Главная](README.md)
+* [Strona główna](README.md)
 
-* CLIKC для SmartTV  
-  * [Обзор функций](overview_tv.md)
-  * [Установка и настройка](install_tv.md)
-  * [Ограничения](limitations_tv.md)
-  * [Поддержка](support.md)
+* CLIKC dla SmartTV  
+  * [Przegląd funkcji](overview_tv.md)
+  * [Instalacja i konfiguracja](install_tv.md)
+  * [Ograniczenia](limitations_tv.md)
+  * [Wsparcie](support.md)
 
-* CLIKC для Andoid
-  * [Обзор функций](overview_android.md)
-  * [Установка и настройка](install_android.md)
-  * [Поддержка](support.md)
+* CLIKC dla Androida  
+  * [Przegląd funkcji](overview_android.md)
+  * [Instalacja i konfiguracja](install_android.md)
+  * [Wsparcie](support.md)
 
-* CLIKC для iOS
-  * [Обзор функций](overview_ios.md)
-  * [Установка и настройка](install_ios.md)
-  * [Поддержка](support.md)
+* CLIKC dla iOS  
+  * [Przegląd funkcji](overview_ios.md)
+  * [Instalacja i konfiguracja](install_ios.md)
+  * [Wsparcie](support.md)
 
-* [Команда CLICK](join.md)
+* [Zespół CLICK](join.md)
 
-* Инструкции
-  * [Руководство по настройке на Smart TV](install_tv.md)
-  * [Руководство по установке на Android](install_android.md)
-  * [Руководство по установке на iOS](install_ios.md)
-  * [Продление подписки](renewal.md)
-  * [Обновление приложения](update.md)
+* Instrukcje  
+  * [Instrukcja konfiguracji dla Smart TV](install_tv.md)
+  * [Instrukcja instalacji na Androidzie](install_android.md)
+  * [Instrukcja instalacji na iOS](install_ios.md)
+  * [Przedłużenie subskrypcji](renewal.md)
+  * [Aktualizacja aplikacji](update.md)

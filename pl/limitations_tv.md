@@ -1,5 +1,5 @@
-# Ограничения CLICK на телевизорах
+# Ograniczenia CLICK na telewizorach
 
-В настоящий момент в CLICK не реализован просмотр Shorts на телевизоре.
+Obecnie CLICK nie obsługuje odtwarzania Shorts na telewizorach.
 
-Решением является возможность отключение сервиса в личном кабинете tvclick.app
+Rozwiązaniem jest wyłączenie usługi w panelu użytkownika na [tvclick.app](https://tvclick.app/).

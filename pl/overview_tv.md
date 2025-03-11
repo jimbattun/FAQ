@@ -1,32 +1,32 @@
-## Информация
+```markdown
+## Informacje
 
-> В этой статье рассказывается о CLICK для телевизоров — сервис который позволяет смотреть ваши любимые ролики без рекламных интеграций. Чтобы увидеть, как он работает, добавте Ваше [устройство](https://tvclick.app/).
+> Ten artykuł dotyczy CLICK dla telewizorów — usługi, która umożliwia oglądanie ulubionych filmów bez reklam i sponsorowanych treści.  
+> Aby zobaczyć, jak działa, dodaj swoje [urządzenie](https://tvclick.app/).
 
-- [Личный кабинет](https://tvclick.app/)
-- [Инстукция по настройке](/install_tv.md)
-- [Статус работы сервиса](https://status.myclick.app/)
+- [Panel użytkownika](https://tvclick.app/)  
+- [Instrukcja konfiguracji](/install_tv.md)  
+- [Status usługi](https://status.myclick.app/)  
 
-## Поддержка устройств
+## Obsługiwane urządzenia
 
-> * Все актуальные устройска с поддержкой SmartTV - Samsung, LG, TCL, Hisense, Sony;
-> * ТВ-приставки - ANDROID TV / APPLE TV;
-> * Игровые консоли - PLAYSTATION / XBOX / SWITCH;
+> * Wszystkie nowoczesne telewizory SmartTV – Samsung, LG, TCL, Hisense, Sony  
+> * Przystawki TV – ANDROID TV / APPLE TV  
+> * Konsole do gier – PLAYSTATION / XBOX / SWITCH  
 
+## Funkcje
 
-## Функции
+### *Bez sponsorowanych integracji*  
+`Usługa automatycznie pomija sponsorowane treści w filmach.`  
 
-* Без интеграций
+### *Komfortowe oglądanie*  
+`CLICK automatycznie klika "Pomiń reklamę", gdy przycisk się pojawi.  
+W przypadku krótkich reklam bez opcji pominięcia, dźwięk zostaje wyciszony.`  
 
-`Сервис автоматически пропускает встроенные рекламные интеграции от блогеров`.
+### *Dostępność*  
+`CLICK nie wymaga instalacji aplikacji na telewizorze.`  
 
-* Комфортный просмотр
+## Ograniczenia CLICK na telewizorach  
 
-`Сервис самостоятельно нажимает на кнопку "Пропустить рекламу" при ее появлении.В коротких рекламных вставках, где нет активной кнопки пропуска рекламы, сервис приглушает звук`.
-
-* Доступность
-
-`CLICK не требует установки приложения на телевизор`.
-
-## Ограничения CLICK на телевизорах
-
-В настоящий момент в CLICK не реализован просмотр Shorts на телевизоре.
+Obecnie CLICK nie obsługuje odtwarzania Shorts na telewizorach.  
+```

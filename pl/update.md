@@ -1,13 +1,17 @@
-## Обновление Android
+## Aktualizacja Android
 
-В приложение для Android можно запросить обновление в настройках `Настройки → О приложении → Проверить обновление`.
+W aplikacji dla Androida można sprawdzić dostępność aktualizacji w ustawieniach:  
+`Ustawienia → O aplikacji → Sprawdź aktualizację`.
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5251599247923601105-y.jpg" width="300"></p> 
 
+
+
 ```
-Актуальная версия Android-приложения всегда доступна по ссылке: myclick.app/app
+Najnowsza wersja aplikacji na Androida jest zawsze dostępna pod adresem: myclick.app/app
+
 ```
 
-## Обновление iOS
+## Aktualizacja iOS
 
-Актуальную версию приложения для iOS всегда можно найти в [AppStore](https://apps.apple.com/us/app/click-watch-video/id6740205263).
+Najnowszą wersję aplikacji dla iOS można zawsze znaleźć w [App Store](https://apps.apple.com/us/app/click-watch-video/id6740205263).

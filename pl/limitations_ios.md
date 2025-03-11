@@ -1,4 +1,4 @@
-# На iOS сервис CLICK находится в режиме тестирования
+# Usługa CLICK na iOS jest w fazie testowania  
 
-# На iOS сервис CLICK находится в режиме тестирования
-Обратите внимание: на данный момент сервис CLICK для iOS находится в стадии тестирования. Некоторые функции могут работать с ограничениями.
+Uwaga: Obecnie usługa CLICK dla iOS znajduje się w fazie testowania.  
+Niektóre funkcje mogą działać z ograniczeniami.

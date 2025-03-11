@@ -1,31 +1,27 @@
-## Информация
+## Informacje
 
-> В этой статье рассказывается о CLICK для Android — многофункциональном приложении, которое позволяет смотреть ваши любимые ролики без рекaламы и рекламных интеграций . Чтобы увидеть, как он работает, скачайте приложение [CLICK](https://myclick.app/app).
+> Ten artykuł dotyczy CLICK dla Androida — wielofunkcyjnej aplikacji, która umożliwia oglądanie ulubionych filmów bez reklam i sponsorowanych integracji.  
+> Aby zobaczyć, jak działa, pobierz aplikację [CLICK](https://myclick.app/app).
 
-- [Инструкция по настройке](/install_android.md)
-- [Скачать актуальную версию](https://myclick.app/app)
+- [Instrukcja konfiguracji](/install_android.md)  
+- [Pobierz najnowszą wersję](https://myclick.app/app)  
 
-## Системные требования
-> * Версия ОС: Android 9.0 или выше
-> * Объём оперативной памяти: от 2 ГБ
-> * Свободное пространство на диске: 500 МБ
+## Wymagania systemowe
 
-## Функции
-* Без рекламы
+> * Wersja systemu: Android 9.0 lub nowszy  
+> * Pamięć RAM: co najmniej 2 GB  
+> * Wolne miejsce na dysku: 500 MB  
 
-`Смотрите любимый контент без рекламы от YouTube и наслаждайтесь пропуском рекламных интеграций от блогеров.`
+## Funkcje
 
-* Синхронизация c Google сервисами
+### *Bez reklam*  
+`Oglądaj ulubione treści bez reklam z YouTube i ciesz się automatycznym pomijaniem sponsorowanych integracji od twórców.`  
 
-`Полная синхронизация просмотров и действия с вашим аккаунтом, с доступом к плейлистам, подпискам, подборкам и рекомендациям.`
+### *Synchronizacja z usługami Google*  
+`Pełna synchronizacja historii oglądania i aktywności z Twoim kontem, z dostępem do playlist, subskrypcji i rekomendacji.`  
 
+### *Odtwarzanie w tle i tryb "Obraz w obrazie"*  
+`Słuchaj ulubionych filmów, muzyki i podcastów w tle.`  
 
-* Просмотр в фоне и "Окне"
-
-`Прослушивайте любимые видео, музыку и подкасты в фоновом режиме.`
-
-* Скачивание
-
-`Загрузка контента в несколько потоков, скачивайте аудио или видео.`
-
-
+### *Pobieranie treści*  
+`Szybkie pobieranie treści w wielu strumieniach – ściągaj pliki audio i wideo.`  
