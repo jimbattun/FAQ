@@ -14,7 +14,6 @@ Once installed, the app is ready to use. To set it up, open the app by tapping i
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628112-y.jpg" width="300"></p> 
 <p align="center"><img src="image-18.png" width="300"></p> 
-![alt text](image-18.png)
 
 ## Enabling the Safari Extension
 
