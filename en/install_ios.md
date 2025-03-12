@@ -36,7 +36,8 @@ For the extension to work properly, it must be enabled in Safari settings:
 
 3. Select **CLICK**.  
 
-<p align="center"><img src="2025-03-12 15.10.25.jpg" width="300"></p> 
+<p align="center"><img src="2025-03-12 15.12.23.jpg" width="300"></p> 
+
 
 4. Enter your **login and password** in the authentication field.  
 
