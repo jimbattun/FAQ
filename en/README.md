@@ -63,4 +63,3 @@ CLICK is one of the leading solutions in the market for enhancing the user exper
   
   `Advertising integrations from bloggers will be detected and removed from videos.`
 
-# FAQ

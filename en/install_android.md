@@ -21,7 +21,7 @@ Now, you can proceed with the installation. A prompt will appear asking to save 
 - Tap **OK**.
 
 3. Once the download is complete, tap **Install** in the installation dialog box.  
-4. Wait for the installation to finish and tap **Done**.
+4. Wait for the installation to finish and tap **Open**.
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5240471339846985384-y.jpg" width="300"></p> 
 

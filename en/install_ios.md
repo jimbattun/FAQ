@@ -13,7 +13,8 @@ Go to the App Store and tap **Install**.
 Once installed, the app is ready to use. To set it up, open the app by tapping its icon in the list of installed applications and follow the instructions.
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628112-y.jpg" width="300"></p> 
-<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628111-y.jpg" width="300"></p> 
+<p align="center"><img src="image-18.png" width="300"></p> 
+![alt text](image-18.png)
 
 ## Enabling the Safari Extension
 
@@ -22,8 +23,9 @@ For the extension to work properly, it must be enabled in Safari settings:
 1. Go to `Settings → Safari → Extensions → CLICK`  
 2. Enable the necessary permissions.
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628110-y.jpg" width="300"></p> 
-<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628109-y.jpg" width="300"></p> 
+<p align="center"><img src="image-19.png" width="300"></p> 
+<p align="center"><img src="2025-03-12 15.10.19.jpg" width="300"></p> 
+
 
 ## Using CLICK in Safari
 
@@ -34,7 +36,7 @@ For the extension to work properly, it must be enabled in Safari settings:
 
 3. Select **CLICK**.  
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628108-y.jpg" width="300"></p> 
+<p align="center"><img src="2025-03-12 15.10.25.jpg" width="300"></p> 
 
 4. Enter your **login and password** in the authentication field.  
 
@@ -44,3 +46,11 @@ Once successfully logged in, you can use all the features of the CLICK app.
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628105-y.jpg" width="300"></p> 
 <p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628104-y.jpg" width="300"></p> 
+
+For quick access, you can add an icon to your desktop:
+
+<p align="center"><img src="2025-03-12 15.20.15.jpg" width="300"></p> 
+<p align="center"><img src="IMG_91758E742A00-1.jpeg" width="300"></p> 
+<p align="center"><img src="2025-03-12 15.20.03.jpg" width="300"></p> 
+
+ 
