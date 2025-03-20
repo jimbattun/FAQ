@@ -40,12 +40,13 @@ For the extension to work properly, it must be enabled in Safari settings:
 
 4. Enter your **login and password** in the authentication field.  
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628107-y.jpg" width="300"></p> 
+<p align="center"><img src="2025-03-20 11.47.38.jpg" width="300"></p> 
 
 Once successfully logged in, you can use all the features of the CLICK app.
 
-<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628105-y.jpg" width="300"></p> 
-<p align="center"><img src="telegram-cloud-photo-size-2-5204198717534628104-y.jpg" width="300"></p> 
+<p align="center"><img src="telegram-cloud-photo-size-2-5395528399491034520-y.jpg" width="300"></p> 
+<p align="center"><img src="telegram-cloud-photo-size-2-5395528399491034517-y.jpg" width="300"></p> 
+
 
 For quick access, you can add an icon to your desktop:
 
