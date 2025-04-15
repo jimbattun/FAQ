@@ -35,7 +35,7 @@ On your TV:
 3. Scroll to **Pair device manually**.
 4. Enter the **blue code** into the app and tap **Add**.
 
-<p align="center"><img src="image-4.png" width="400"></p>
+<p align="center"><img src="image-4.png" width="600"></p>
 
 <p align="center"><img src="IMG_1643.PNG" width="400"></p>
 
