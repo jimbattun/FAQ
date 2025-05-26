@@ -1,6 +1,6 @@
 ## Информация
 
-> В этой статье рассказывается о Skipsy, приложении для iOS и Android — приложение использует AI для анализа структуры YouTube-видео на вашем телевизоре и автоматически пропускает спонсорские сегменты. Оно не вмешивается в рекламу YouTube и не нарушает правила платформы. Полный контроль остаётся за вами. [Skipsy iOS](https://apps.apple.com/us/app/skipsy/id6744373436) | [Skipsy Android](https://apps.apple.com/us/app/skipsy/id6744373436).
+> В этой статье рассказывается о Skipsy, приложении для iOS и Android — приложение использует AI для анализа структуры YouTube-видео на вашем телевизоре и автоматически пропускает спонсорские сегменты. Оно не вмешивается в рекламу YouTube и не нарушает правила платформы. Полный контроль остаётся за вами. [Skipsy iOS](https://apps.apple.com/us/app/skipsy/id6744373436) | [Skipsy Android](https://clickapp.fra1.cdn.digitaloceanspaces.com/Skipsy/Skipsy_1.1.2.apk).
 
 <p align="center"><img src="aso_eng_1.png" width="300"></p> 
 
