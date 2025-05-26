@@ -5,6 +5,7 @@
 * CLICK for SmartTV  
   * [Feature Overview](overview_tv.md)
   * [Installation and Setup](install_tv.md)
+  * [Skipsy](skipsy.md)
   * [Limitations](limitations_tv.md)
   * [Support](support.md)
 
