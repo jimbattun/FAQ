@@ -4,7 +4,7 @@
 
 <p align="center"><img src="image-18.png" width="300"></p> 
 
-<p align="center">[Cloud Gallery iOS](https://apps.apple.com/us/app/cloud-gallery-cloud-storage/id6744356849) | [Cloud Gallery Android](https://play.google.com/apps/testing/app.myclick.gallery)</p> 
+[Cloud Gallery iOS](https://apps.apple.com/us/app/cloud-gallery-cloud-storage/id6744356849) | [Cloud Gallery Android](https://play.google.com/apps/testing/app.myclick.gallery)
 
 ## Системные требования
 
