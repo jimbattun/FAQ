@@ -1,11 +1,10 @@
-## 1. Общее описание
 
-**Cloud Gallery** — это система для автоматической загрузки, централизованного хранения, организации и просмотра фотографий и видео, сделанных на мобильных устройствах.  
+**Cloud Gallery** — это сервис для автоматической загрузки, централизованного хранения, организации и просмотра фотографий и видео, сделанных на мобильных устройствах.  
 Приложение предназначено для пользователей, которые хотят сохранить свои медиафайлы в облаке, сохраняя полный контроль над данными и доступом к ним.  
 
 <p align="center"><img src="image-18.png" width="300"></p> 
 
-[Cloud Gallery iOS](https://apps.apple.com/us/app/cloud-gallery-cloud-storage/id6744356849) | [Cloud Gallery Android](https://play.google.com/apps/testing/app.myclick.gallery).
+<p align="center">[Cloud Gallery iOS](https://apps.apple.com/us/app/cloud-gallery-cloud-storage/id6744356849) | [Cloud Gallery Android](https://play.google.com/apps/testing/app.myclick.gallery)</p> 
 
 ## Системные требования
 
