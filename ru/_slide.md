@@ -19,6 +19,11 @@
   * [Установка и настройка](install_ios.md)
   * [Поддержка](support.md)
 
+* Cloud Gallery
+  * [Обзор функций](cloud_overview.md)
+  * [Установка и настройка](cloud_install.md)
+  * [Поддержка](support.md)
+
 * [Команда CLICK](join.md)
 
 * Инструкции
