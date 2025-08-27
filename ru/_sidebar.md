@@ -21,11 +21,9 @@
 
 * Cloud Gallery
   * [Обзор функций](cloud_overview.md)
-  * [Установка и настройка](cloud_install.md)
-  * [Установка и настройка](cloud_install_ios.md)
+  * [Установка и настройка Andoid](cloud_install.md)
+  * [Установка и настройка iOS](cloud_install_ios.md)
   * [Поддержка](support.md)
-
-* [Команда CLICK](join.md)
 
 * Инструкции
   * [Руководство по настройке на Smart TV](install_tv.md)
@@ -33,3 +31,5 @@
   * [Руководство по установке на iOS](install_ios.md)
   * [Продление подписки](renewal.md)
   * [Обновление приложения](update.md)
+  
+* [Команда CLICK](join.md)
