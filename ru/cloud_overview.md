@@ -4,7 +4,7 @@
 
 <p align="center"><img src="image-18.png" width="300"></p> 
 
-[Cloud Gallery iOS](https://apps.apple.com/us/app/cloud-gallery-cloud-storage/id6744356849) | [Cloud Gallery Android](https://clickapp.fra1.cdn.digitaloceanspaces.com/Gallery/app-release_1.0.2+5.apk)
+[Cloud Gallery iOS](https://apps.apple.com/us/app/cloud-gallery-cloud-storage/id6744356849) | [Cloud Gallery Android](https://clickapp.fra1.cdn.digitaloceanspaces.com/Gallery/CloudGallery_1.0.2+9.apk)
 
 ## Системные требования
 

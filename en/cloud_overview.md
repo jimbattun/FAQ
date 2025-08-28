@@ -3,7 +3,7 @@ The app is designed for users who want to store their media files in the cloud w
 
 <p align="center"><img src="/ru/image-18.png" width="300"></p>
 
-[Cloud Gallery iOS](https://apps.apple.com/us/app/cloud-gallery-cloud-storage/id6744356849) | [Cloud Gallery Android](https://clickapp.fra1.cdn.digitaloceanspaces.com/Gallery/app-release_1.0.2+5.apk)
+[Cloud Gallery iOS](https://apps.apple.com/us/app/cloud-gallery-cloud-storage/id6744356849) | [Cloud Gallery Android](https://clickapp.fra1.cdn.digitaloceanspaces.com/Gallery/CloudGallery_1.0.2+9.apk)
 
 ## System Requirements
 
