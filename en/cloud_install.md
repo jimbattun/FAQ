@@ -2,7 +2,7 @@
 
 1. Open **Google Play**.
 
-2. The latest version of the app is available in [Google Play](https://clickapp.fra1.cdn.digitaloceanspaces.com/Gallery/CloudGallery_1.0.2+9.apk).
+2. The latest version of the app is available in [Google Play](https://clickapp.fra1.cdn.digitaloceanspaces.com/Gallery/app-release_1.0.2+15.apk).
 
 3. Install it.
 
