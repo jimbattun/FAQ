@@ -1,6 +1,6 @@
 
 ### Android
-Актуальная версия приложения доступна [Загрузка](https://clickapp.fra1.cdn.digitaloceanspaces.com/Gallery/CloudGallery_1.0.2+9.apk).
+Актуальная версия приложения доступна [Загрузка]().
 3. Установите его.
 4. Запустите Cloud Gallery.
 5. При первом запуске:
