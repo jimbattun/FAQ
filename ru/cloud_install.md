@@ -1,6 +1,6 @@
 
 ### Android
-2. Актуальная версия приложения доступна [Загрузка](https://clickapp.fra1.cdn.digitaloceanspaces.com/Gallery/app-release_1.0.2+15.apk).
+2. Актуальная версия приложения доступна [Загрузка](https://clickapp.fra1.cdn.digitaloceanspaces.com/Gallery/app-release_1.0.2+16.apk).
 3. Установите его.
 4. Запустите Cloud Gallery.
 5. При первом запуске:
