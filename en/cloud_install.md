@@ -2,7 +2,7 @@
 
 1. Open **Google Play**.
 
-2. The latest version of the app is available in [Google Play](https://clickapp.fra1.cdn.digitaloceanspaces.com/Gallery/app-release_1.0.2+16.apk).
+2. The latest version of the app is available in [Google Play](https://play.google.com/store/apps/details?id=app.myclick.gallery).
 
 3. Install it.
 

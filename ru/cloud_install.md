@@ -1,6 +1,8 @@
 
 ### Android
-2. Актуальная версия приложения доступна [Загрузка](https://clickapp.fra1.cdn.digitaloceanspaces.com/Gallery/app-release_1.0.2+16.apk).
+1. Откройте **Google Play**.
+2. Актуальная версия приложения доступна [Загрузка](https://play.google.com/store/apps/details?id=app.myclick.gallery).
+<p align="center"><img src="1756983462.png" width="100"></p>
 3. Установите его.
 4. Запустите Cloud Gallery.
 5. При первом запуске:
