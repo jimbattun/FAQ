@@ -26,10 +26,3 @@
   * [Support](support.md)
 
 * [CLICK Team](join.md)
-
-* Guides  
-  * [Smart TV Setup Guide](install_tv.md)
-  * [Android Installation Guide](install_android.md)
-  * [iOS Installation Guide](install_ios.md)
-  * [Subscription Renewal](renewal.md)
-  * [App Update](update.md)
