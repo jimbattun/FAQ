@@ -7,6 +7,7 @@ To start using the service on your TV via a mobile device, follow these steps:
 ## 1. Download and Open the App
 
 Download the mobile app on your smartphone and launch it.
+[Skipsy iOS](https://apps.apple.com/us/app/skipsy/id6744373436) | [Skipsy Android](https://play.google.com/store/apps/details?id=com.myclick.skipsy).
 
 ---
 
