@@ -10,6 +10,7 @@
     <p align="center"><img src="2025-08-11 13.44.32.jpg" width="300"></p>
 
 6. Создайте учетную запись:
+<p align="center"><img src="2025-08-11 13.13.08.jpg" width="300"></p> 
 
 <p align="center"><img src="2025-08-11 13.13.08.jpg" width="300"></p> 
 <p align="center"><img src="2025-08-11 13.13.11.jpg" width="300"></p> 
