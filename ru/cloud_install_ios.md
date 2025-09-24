@@ -9,8 +9,10 @@
 <p align="center"><img src="photo ios.png" width="300"></p> 
 
 6. Создайте учетную запись:
-
+<p align="center"><img src="2025-09-24 13.12.54-1.jpg" width="300"></p> 
+- Нажмите "Создать пользователя".
 <p align="center"><img src="telegram-cloud-photo-size-2-5244773174795696179-y.jpg" width="300"></p> 
+- Введите код доступа.
 <p align="center"><img src="telegram-cloud-photo-size-2-5244773174795696181-y.jpg" width="300"></p> 
 Ввести Ваш код активации, почту и пароль и нажать "Создать".
 
