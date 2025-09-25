@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Docs</title>
+  <title>MYCK Docs</title>
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
   
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -34,7 +34,6 @@
       <option value="/en/">English</option>
       <option value="/ru/">Русский</option>
       <option value="/pl/">Polski</option>
-      <option value="/uk/">Українська</option>
     </select>
   </div>
 
@@ -45,20 +44,25 @@
     document.addEventListener("DOMContentLoaded", function () {
       const langSwitcher = document.getElementById("lang-switcher");
       const currentPath = window.location.pathname;
+      const currentHash = window.location.hash;
 
       // Определяем язык браузера пользователя
       const userLang = navigator.language || navigator.userLanguage;
-      let defaultLang = "/en/"; // Теперь английский по умолчанию
+      let defaultLang = "/en/"; // Английский по умолчанию
 
-      if (currentPath === "/") { // Только если пользователь впервые на сайте
+      // Если пользователь впервые на сайте, определить язык браузера
+      if (currentPath === "/") {
         if (userLang.startsWith("ru")) {
           defaultLang = "/ru/";
         } else if (userLang.startsWith("pl")) {
           defaultLang = "/pl/";
-        } else if (userLang.startsWith("uk")) {
-          defaultLang = "/uk/";
         }
-        window.location.replace(defaultLang);
+        window.location.replace(defaultLang + "#/README");
+      }
+
+      // Если путь без хэша, добавить #/README
+      if (!currentHash || currentHash === "#/") {
+        window.location.hash = "#/README";
       }
 
       // Устанавливаем значение в селекторе
@@ -66,27 +70,24 @@
         langSwitcher.value = "/ru/";
       } else if (currentPath.startsWith("/pl/")) {
         langSwitcher.value = "/pl/";
-      } else if (currentPath.startsWith("/uk/")) {
-        langSwitcher.value = "/uk/";
       } else {
         langSwitcher.value = "/en/";
       }
 
-      // Обработчик смены языка вручную
+      // Обработчик смены языка (возвращаем на README.md)
       langSwitcher.addEventListener("change", function () {
-        window.location.href = this.value;
+        window.location.href = this.value + "#/README";
       });
     });
 
     window.$docsify = {
-      name: 'Docs',
+      name: 'MYCK Docs',
       repo: '',
       loadSidebar: true,
       alias: {
-        '/': '/en/', // Английский теперь основная локаль
+        '/': '/en/', // Английский по умолчанию
         '/ru/': '/ru/',
-        '/pl/': '/pl/',
-        '/uk/': '/uk/'
+        '/pl/': '/pl/'
       }
     };
   </script>
