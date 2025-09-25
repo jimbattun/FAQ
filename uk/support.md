@@ -1,4 +1,4 @@
-# Customer Support
+# Підтримка користувачів
 
 ```
 Email: support@myclick.app

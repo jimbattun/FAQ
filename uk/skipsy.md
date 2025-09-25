@@ -1,40 +1,40 @@
-# 📱 Mobile App Setup
+# 📱 Налаштування мобільного додатку
 
-To start using the service on your TV via a mobile device, follow these steps:
+Щоб почати користуватися сервісом на телевізорі через мобільний пристрій, виконайте ці кроки:
 
 ---
 
-## 1. Download and Open the App
+## 1. Завантажте та відкрийте додаток
 
-Download the mobile app on your smartphone and launch it.
+Завантажте мобільний додаток на свій смартфон і запустіть його.  
 [Skipsy iOS](https://apps.apple.com/us/app/skipsy/id6744373436) | [Skipsy Android](https://play.google.com/store/apps/details?id=com.myclick.skipsy).
 
 ---
 
-## 2. Tap the Add Device Button
+## 2. Натисніть кнопку Додати пристрій
 
-On the **Your Devices** screen, tap the ➕ button in the bottom-right corner to start adding a new device.
+На екрані **Ваші пристрої** натисніть кнопку ➕ у нижньому правому куті, щоб додати новий пристрій.
 
 <p align="center"><img src="IMG_1641.PNG" width="400"></p>
 
 ---
 
-## 3. Enter the Device Name
+## 3. Введіть назву пристрою
 
-Type a name for your TV (e.g., `Apple TV`) and tap **Next**.
+Введіть назву для вашого телевізора (наприклад, Apple TV) і натисніть **Далі**.
 
 <p align="center"><img src="IMG_1642.PNG" width="400"></p>
 
 ---
 
-## 4. Enter the Code from the YouTube App
+## 4. Введіть код з додатку YouTube
 
-On your TV:
+На вашому телевізорі:
 
-1. Open the **YouTube app**.
-2. Go to **Settings**.
-3. Scroll to **Pair device manually**.
-4. Enter the **blue code** into the app and tap **Add**.
+1. Відкрийте **додаток YouTube**.  
+2. Перейдіть у **Налаштування**.  
+3. Прокрутіть до **Підключити пристрій вручну**.  
+4. Введіть **синій код** у додаток і натисніть **Додати**.
 
 <p align="center"><img src="image-4.png" width="600"></p>
 
@@ -42,45 +42,45 @@ On your TV:
 
 ---
 
-## 5. Device Added
+## 5. Пристрій додано
 
-Your device will now appear in the **Your Devices** list.  
-If you’re on a free plan, only one device can be active.
+Ваш пристрій з’явиться у списку **Ваші пристрої**.  
+Якщо ви користуєтесь безкоштовним планом, активним може бути лише один пристрій.
 
 <p align="center"><img src="IMG_1644.PNG" width="400"></p>
 
 ---
 
-# 🔓 Unlock Premium (Optional)
+# 🔓 Розблокування Premium (необов’язково)
 
-To unlock all features (such as multiple devices):
+Щоб розблокувати всі функції (наприклад, кілька пристроїв):
 
-1. Tap **Get Premium**.
-2. Choose your subscription plan:  
-   - Free trial → then 4.99 PLN/month  
-   - **Yearly plan** → 49.99 PLN (20% discount)
-3. Complete the purchase.
+1. Натисніть **Отримати Premium**.  
+2. Виберіть свій тарифний план:  
+   - Безкоштовний пробний період → далі 4.99 PLN/місяць  
+   - **Річний план** → 49.99 PLN (знижка 20%)  
+3. Завершіть покупку.
 
 <p align="center"><img src="telegram-cloud-photo-size-2-5472349485922382129-y.jpg" width="400"></p>
 
 ---
 
-# 🔑 Log into Your Account
+# 🔑 Увійдіть у свій обліковий запис
 
-To activate Premium on another device:
+Щоб активувати Premium на іншому пристрої:
 
-1. Tap **Login** at the bottom.
-2. Enter your **Key** and **Email**.
-3. Tap the **Login** button.
+1. Натисніть **Увійти** внизу.  
+2. Введіть свій **Ключ** та **Email**.  
+3. Натисніть кнопку **Увійти**.
 
 <p align="center"><img src="IMG_1646.PNG" width="400"></p>
 
 ---
 
-Once logged in, you’ll see **Login successful** and your Premium status will be enabled.
+Після входу ви побачите повідомлення **Вхід успішний**, і ваш статус Premium буде активовано.
 
 <p align="center"><img src="IMG_1648.PNG" width="400"></p>
 
 ---
 
-> Need help? Contact us - support@myclick.app
+> Потрібна допомога? Зв’яжіться з нами — support@myclick.app

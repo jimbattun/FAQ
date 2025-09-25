@@ -1,51 +1,51 @@
 ### Android
 
-1. Open **Google Play**.
+1. Відкрийте **Google Play**.
 
-2. The latest version of the app is available in [Google Play](https://play.google.com/store/apps/details?id=app.myclick.gallery).
+2. Остання версія додатку доступна в [Google Play](https://play.google.com/store/apps/details?id=app.myclick.gallery).
 
-3. Install it.
+3. Встановіть додаток.
 
-4. Launch Cloud Gallery.
+4. Запустіть Cloud Gallery.
 
-5. On first launch:
+5. Під час першого запуску:
 
-   * Allow access to media files.
+   * Дозвольте доступ до медіафайлів.
 
     <p align="center"><img src="/ru/2025-08-11 13.44.32.jpg" width="300"></p>
 
-6. Create an account:
+6. Створіть обліковий запис:
 
 <p align="center"><img src="/ru/2025-08-11 13.13.08.jpg" width="300"></p> 
 <p align="center"><img src="/ru/2025-08-11 13.13.11.jpg" width="300"></p> 
-Enter your activation code, email, and password, then press the "Create User" button.
+Введіть код активації, email та пароль, потім натисніть кнопку "Створити користувача".
 
-7. After logging in:
+7. Після входу в систему:
 
-   * In **Settings**, enable **Auto Upload**.
+   * У **Налаштуваннях** увімкніть **Автозавантаження**.
 
  <p align="center"><img src="/ru/2025-08-11 13.12.51.jpg" width="300"></p> 
  <p align="center"><img src="/ru/2025-08-11 14.14.56.jpg" width="300"></p> 
-   - Select folders for synchronization.
-   - Choose your data transfer mode.
+   - Виберіть папки для синхронізації.
+   - Виберіть режим передавання даних.
     <p align="center"><img src="/ru/2025-08-11 13.13.00.jpg" width="300"></p> 
-   - Enable background operation to ensure uploads are not interrupted.
+   - Увімкніть фоновий режим, щоб завантаження не переривалося.
      <p align="center"><img src="/ru/2025-08-2112311311113.jpg" width="300"></p> 
 ---
 
-## Usage Recommendations
+## Рекомендації щодо використання
 
-* To save battery, use Wi-Fi-only uploads.
-* For large media libraries, it is recommended to enable synchronization only while charging.
-* Protect your account with a strong password.
+* Щоб заощадити заряд батареї, використовуйте завантаження лише через Wi-Fi.
+* Для великих медіабібліотек рекомендується вмикати синхронізацію лише під час заряджання.
+* Захистіть свій обліковий запис надійним паролем.
 
 ---
 
-## Support and Troubleshooting
+## Підтримка та усунення несправностей
 
-If files are not uploading:
+Якщо файли не завантажуються:
 
-* Check your internet connection.
-* Make sure the app is not restricted by battery-saving settings (especially on Android).
+* Перевірте підключення до інтернету.
+* Переконайтеся, що додаток не обмежується налаштуваннями енергозбереження (особливо на Android).
 
 ---

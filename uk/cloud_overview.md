@@ -1,55 +1,55 @@
-**Cloud Gallery** is a service for automatic uploading, centralized storage, organization, and viewing of photos and videos taken on mobile devices.
-The app is designed for users who want to store their media files in the cloud while maintaining full control over their data and access to it.
+**Cloud Gallery** — це сервіс для автоматичного завантаження, централізованого зберігання, організації та перегляду фото і відео, зроблених на мобільних пристроях.
+Додаток створений для користувачів, які хочуть зберігати свої медіафайли у хмарі, зберігаючи повний контроль над своїми даними та доступом до них.
 
 <p align="center"><img src="/ru/image-18.png" width="300"></p>
 
 [Cloud Gallery iOS](https://apps.apple.com/us/app/cloud-gallery-cloud-storage/id6744356849) | [Cloud Gallery Android](https://play.google.com/store/apps/details?id=app.myclick.gallery)
 
-## System Requirements
+## Системні вимоги
 
-> * OS version: iOS or iPadOS 15.0, or Android 9.0 and higher
+> * Версія ОС: iOS або iPadOS 15.0, або Android 9.0 і вище
 
 ---
 
-## 2. Key Features
+## 2. Основні можливості
 
-### 2.1. Automatic Media Upload
+### 2.1. Автоматичне завантаження медіа
 
-* Background sync mode: new photos and videos are automatically uploaded to the cloud.
-* Select specific folders for synchronization.
-* Connection type settings:
+* Режим фонової синхронізації: нові фото та відео автоматично завантажуються у хмару.
+* Вибір конкретних папок для синхронізації.
+* Налаштування типу з’єднання:
 
-  * Wi-Fi only.
-  * Wi-Fi + mobile network.
-* Option to limit uploads when battery is low.
+  * Лише Wi-Fi.
+  * Wi-Fi + мобільна мережа.
+* Можливість обмежувати завантаження при низькому рівні заряду батареї.
 
-### 2.2. Storage and Organization
+### 2.2. Зберігання та організація
 
-* **Original quality** — files are stored without compression.
-* Organization by shooting date and geolocation.
-* Create **albums**.
-* Ability to add metadata:
+* **Оригінальна якість** — файли зберігаються без стиснення.
+* Організація за датою зйомки та геолокацією.
+* Створення **альбомів**.
+* Можливість додавання метаданих:
 
-  * Description.
-  * Tags.
-  * Geographical data.
+  * Опис.
+  * Теги.
+  * Географічні дані.
 
-### 2.3. Viewing and Search
+### 2.3. Перегляд і пошук
 
-* Gallery with paginated or infinite scrolling.
-* Search by:
+* Галерея з посторінковим або нескінченним прокручуванням.
+* Пошук за:
 
-  * Date.
-  * Shooting location.
-  * Album name.
-  * Labels and tags.
-  * Recognized faces (if enabled on the server).
-* Filtering by file type: photo, video, format.
+  * Датою.
+  * Місцем зйомки.
+  * Назвою альбому.
+  * Мітками та тегами.
+  * Розпізнаними обличчями (якщо увімкнено на сервері).
+* Фільтрація за типом файлів: фото, відео, формат.
 
-### 2.4. Additional Features
+### 2.4. Додаткові можливості
 
-* Support for Live Photos (iOS).
-* Support for RAW formats.
-* High-resolution video playback (4K, HDR).
+* Підтримка Live Photos (iOS).
+* Підтримка RAW-форматів.
+* Відтворення відео у високій роздільній здатності (4K, HDR).
 
 ---

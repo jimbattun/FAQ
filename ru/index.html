@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Docs</title>
+  <title>MYCK Docs</title>
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
   
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -34,6 +34,7 @@
       <option value="/en/">English</option>
       <option value="/ru/">Русский</option>
       <option value="/pl/">Polski</option>
+      <option value="/uk/">Українська</option>
     </select>
   </div>
 
@@ -56,6 +57,8 @@
           defaultLang = "/ru/";
         } else if (userLang.startsWith("pl")) {
           defaultLang = "/pl/";
+        } else if (userLang.startsWith("uk")) {
+          defaultLang = "/uk/";
         }
         window.location.replace(defaultLang + "#/README");
       }
@@ -70,6 +73,8 @@
         langSwitcher.value = "/ru/";
       } else if (currentPath.startsWith("/pl/")) {
         langSwitcher.value = "/pl/";
+      } else if (currentPath.startsWith("/uk/")) {
+        langSwitcher.value = "/uk/";
       } else {
         langSwitcher.value = "/en/";
       }
@@ -81,13 +86,14 @@
     });
 
     window.$docsify = {
-      name: 'Docs',
+      name: 'MYCK Docs',
       repo: '',
       loadSidebar: true,
       alias: {
         '/': '/en/', // Английский по умолчанию
         '/ru/': '/ru/',
-        '/pl/': '/pl/'
+        '/pl/': '/pl/',
+        '/uk/': '/uk/'
       }
     };
   </script>

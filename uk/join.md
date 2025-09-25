@@ -1,10 +1,10 @@
-# MYCK Beta Testing
+# Бета-тестування MYCK
 
-MYCK versions for all platforms are regularly updated. This would not be possible without thorough testing and, most importantly, without the participation of our testers.
+Версії MYCK для всіх платформ регулярно оновлюються. Це було б неможливо без ретельного тестування і, найголовніше, без участі наших тестувальників.
 
-If you want to be part of the team that helps improve the service, contact us at: support@myclick.app.
+Якщо ви хочете стати частиною команди, яка допомагає покращувати сервіс, зв’яжіться з нами за адресою: support@myclick.app.
 
-# Knowledge Base Updates
+# Оновлення бази знань
 
-The goal of the Knowledge Base is to provide users with up-to-date and comprehensive information about all aspects of the MYCK service.  
-Since the products are constantly evolving, Knowledge Base articles are regularly updated to remain useful and relevant.
+Мета бази знань — надати користувачам актуальну та вичерпну інформацію про всі аспекти сервісу MYCK.  
+Оскільки продукти постійно розвиваються, статті бази знань регулярно оновлюються, щоб залишатися корисними та актуальними.

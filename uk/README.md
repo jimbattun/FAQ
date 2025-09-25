@@ -1,12 +1,8 @@
-## What is the MYCK service?
+## Що таке сервіс MYCK?
 
-MYCK is one of the leading solutions in the market for enhancing the user experience on YouTube. The service is available on various platforms. Unlike most solutions that work through a browser, we offer standalone applications for mobile devices and Smart TVs:
+MYCK — одне з провідних рішень на ринку для покращення користувацького досвіду на YouTube. Сервіс доступний на різних платформах. На відміну від більшості рішень, що працюють через браузер, ми пропонуємо окремі додатки для мобільних пристроїв та Smart TV:
 
-- [CLICK for Android](/overview_android.md)
-- [CLICK for SmartTV](/overview_tv.md)
-- [CLICK for iOS](/overview_ios.md)
 
 - [Skipsy](/skipsy.md)
 
 - [Cloud Gallery](/cloud_overview.md)
-
