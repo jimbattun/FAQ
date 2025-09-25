@@ -5,7 +5,7 @@
   * [Обмеження](limitations_skipsy.md)
   * [Підтримка](support.md)
 
-* Хмарна галерея
+* Cloud Gallery
   * [Огляд функцій](cloud_overview.md)
   * [Встановлення та налаштування Android](cloud_install.md)
   * [Встановлення та налаштування iOS](cloud_install_ios.md)

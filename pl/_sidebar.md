@@ -1,28 +1,14 @@
-<!-- docs/_sidebar.md -->
-
 * [Strona główna](README.md)
 
-* CLICK dla SmartTV  
-  * [Przegląd funkcji](overview_tv.md)
-  * [Instalacja i konfiguracja](install_tv.md)
-  * [Ograniczenia](limitations_tv.md)
+* Skipsy
+  * [Przegląd funkcji](skipsy.md)
+  * [Ograniczenia](limitations_skipsy.md)
   * [Wsparcie](support.md)
 
-* CLICK dla Androida  
-  * [Przegląd funkcji](overview_android.md)
-  * [Instalacja i konfiguracja](install_android.md)
+* Galeria w chmurze
+  * [Przegląd funkcji](cloud_overview.md)
+  * [Instalacja i konfiguracja Android](cloud_install.md)
+  * [Instalacja i konfiguracja iOS](cloud_install_ios.md)
   * [Wsparcie](support.md)
 
-* CLICK dla iOS  
-  * [Przegląd funkcji](overview_ios.md)
-  * [Instalacja i konfiguracja](install_ios.md)
-  * [Wsparcie](support.md)
-
-* [Zespół CLICK](join.md)
-
-* Instrukcje  
-  * [Instrukcja konfiguracji dla Smart TV](install_tv.md)
-  * [Instrukcja instalacji na Androidzie](install_android.md)
-  * [Instrukcja instalacji na iOS](install_ios.md)
-  * [Przedłużenie subskrypcji](renewal.md)
-  * [Aktualizacja aplikacji](update.md)
+* [Zespół MYCK](join.md)
